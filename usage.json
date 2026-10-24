@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-corpus",
+  "packageVersion": "1.32.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-corpus",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-corpus",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Split Markdown into ordered retrieval chunks with stable record IDs",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:45:34.977889+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "ff9f14c4ada3884c1147bfdebf8825fa5059b1cef13b5f95ff9344aeea09422d",
+    "manifestSha256": "0999ad177096115643a8e48181f184d1e55c94ceea10f227561c21f192a58bb1"
+  }
+}
